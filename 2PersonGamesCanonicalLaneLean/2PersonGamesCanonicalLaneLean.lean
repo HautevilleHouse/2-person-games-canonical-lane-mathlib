@@ -1,0 +1,14 @@
+import 2PersonGamesCanonicalLaneLean.AdmissibleClass
+import 2PersonGamesCanonicalLaneLean.BridgeLemmas
+import 2PersonGamesCanonicalLaneLean.GateLemmas
+import 2PersonGamesCanonicalLaneLean.FinalTheorem
+import 2PersonGamesCanonicalLaneLean.NashEquilibrium
+import 2PersonGamesCanonicalLaneLean.MinimaxTheorem
+
+namespace HautevilleHouse
+namespace TwoPersonGamesCanonicalLaneLean
+
+-- This file is the root of the 2 Person Games Canonical Lane Lean package
+
+end TwoPersonGamesCanonicalLaneLean
+end HautevilleHouse
